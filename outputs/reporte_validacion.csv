@@ -1,0 +1,6 @@
+check,resultado,detalle
+"SemanaEstadistica en [1,53]",OK,Fuera de rango: 0
+PrioridadTriage válida,OK,Inválidos: 0
+SexoPaciente válido,OK,Inválidos: 0
+NumTotal = suma tramos,OK,Debe ser 0 inconsistencias luego de limpieza
+Coordenadas en rango esperado Chile,OK,Fuera de rango: 0
