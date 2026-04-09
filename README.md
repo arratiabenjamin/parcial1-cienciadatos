@@ -82,6 +82,18 @@ Todas las reglas del reporte quedaron en **OK**:
 - `NumTotal = suma de tramos`
 - Coordenadas dentro de rango esperado para Chile
 
+
+## Visualizaciones generadas
+
+### 1) Top 10 causas de urgencia por atenciones
+![Top 10 causas](outputs/top10_causas.png)
+
+### 2) Evolución mensual de atenciones
+![Evolución mensual](outputs/evolucion_mensual_atenciones.png)
+
+### 3) Costo promedio por prioridad de triage
+![Costo promedio por triage](outputs/costo_promedio_triage.png)
+
 ## Cómo ejecutar
 
 1. Crear entorno e instalar dependencias:
